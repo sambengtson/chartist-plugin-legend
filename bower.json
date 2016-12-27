@@ -1,5 +1,5 @@
 {
-  "name": "chartist-plugin-legend",
+  "name": "chartist-plugin-legend-latest",
   "description": "Legend plugin for Chartist.js.",
   "main": [
     "chartist-plugin-legend.js"    
