@@ -1,5 +1,6 @@
 {
   "name": "chartist-plugin-legend-latest",
+  "version": "0.7.0"
   "description": "Legend plugin for Chartist.js.",
   "main": "chartist-plugin-legend.js",
   "authors": [
