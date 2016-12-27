@@ -6,7 +6,7 @@
   ],
   "authors": [
     "Kees Kluskens <kees@codeyellow.nl>",
-    "Chawalit Limsowan <chawalit@pinacono.com>"
+    "Sam Bengtson <sam.bengtson@gmail.com>"
   ],
   "dependencies": {
     "chartist": "~0.10.1"
